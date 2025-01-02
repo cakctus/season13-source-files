@@ -1,0 +1,69 @@
+﻿Построение начато 30.12.2024 23:29:47.
+     1>Проект "D:\emulador-muemu-s13\source-files\Client\Main\Main.vcxproj" в узле 2 (целевые объекты rebuild).
+     1>_PrepareForClean:
+         Файл "Release\Main.lastbuildstate" удаляется.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр построения добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+       InitializeBuildStatus:
+         Создание "Release\Main.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\emulador-muemu-s13\source-files\Client\Main\\" /Zi /nologo /W0 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D _USRDLL /D MAIN_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\main.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\emulador-muemu-s13\source-files\Client\Main\\" /Zi /nologo /W0 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D _USRDLL /D MAIN_EXPORTS /D _WINDLL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\main.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Util\CCRC32.Cpp CastleSiege.cpp Console.cpp CustomFunctions.cpp HackCheck.cpp Interface.cpp EventSchedule.cpp main.cpp Oficina.cpp PacketManager.cpp PrintPlayer.cpp Protect.cpp Protocol.cpp Reconnect.cpp ScreenShooter.cpp ScreenShot.cpp sha1.cpp TrayMode.cpp Uploader.cpp Util.cpp
+         CCRC32.Cpp
+         CastleSiege.cpp
+         Console.cpp
+         CustomFunctions.cpp
+         HackCheck.cpp
+         Interface.cpp
+         EventSchedule.cpp
+         main.cpp
+         Oficina.cpp
+         PacketManager.cpp
+         PrintPlayer.cpp
+         Protect.cpp
+         Protocol.cpp
+         Reconnect.cpp
+         ScreenShooter.cpp
+         ScreenShot.cpp
+         sha1.cpp
+         TrayMode.cpp
+         Uploader.cpp
+         Util.cpp
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Release\Main.res" Main.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\..\..\..\..\..\IconeMU\main.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\main.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"D:\IconeMU\main.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\..\..\..\..\..\..\IconeMU\main.lib" /MACHINE:X86 /DLL Release\Main.res
+         Release\CCRC32.obj
+         Release\CastleSiege.obj
+         Release\Console.obj
+         Release\CustomFunctions.obj
+         Release\HackCheck.obj
+         Release\Interface.obj
+         Release\EventSchedule.obj
+         Release\main.obj
+         Release\Oficina.obj
+         Release\PacketManager.obj
+         Release\PrintPlayer.obj
+         Release\Protect.obj
+         Release\Protocol.obj
+         Release\Reconnect.obj
+         Release\ScreenShooter.obj
+         Release\ScreenShot.obj
+         Release\sha1.obj
+         Release\stdafx.obj
+         Release\TrayMode.obj
+         Release\Uploader.obj
+         Release\Util.obj
+         Создание кода
+         Создание кода завершено
+         Main.vcxproj -> D:\emulador-muemu-s13\source-files\Client\Main\..\..\..\..\..\..\..\..\IconeMU\main.dll
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"..\..\..\..\..\..\..\..\IconeMU\main.dll;#2" /manifest Release\main.dll.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\Main.unsuccessfulbuild" удаляется.
+         Обращение к "Release\Main.lastbuildstate".
+     1>Построение проекта "D:\emulador-muemu-s13\source-files\Client\Main\Main.vcxproj" завершено (целевые объекты rebuild).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:06.14

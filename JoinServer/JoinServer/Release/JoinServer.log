@@ -1,0 +1,36 @@
+﻿  stdafx.cpp
+  MD5.cpp
+  AccountManager.cpp
+  AllowableIpList.cpp
+  CriticalSection.cpp
+  JoinServer.cpp
+  JoinServerProtocol.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm(3741,24): warning C4244: '=': conversion from 'LONG' to 'char', possible loss of data
+  Log.cpp
+  (compiling source file '/AccountManager.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\algorithm(3741,24):
+      the template instantiation context (the oldest one first) is
+          D:\emulador-muemu-s13\source-files\JoinServer\JoinServer\AccountManager.cpp(76,7):
+          see reference to function template instantiation '_OutIt std::transform<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,LONG(__cdecl *)(int)>(const _InIt,const _InIt,_OutIt,_Fn)' being compiled
+          with
+          [
+              _OutIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Elem=char,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Fn=LONG (__cdecl *)(int)
+          ]
+  
+  MemScript.cpp
+  MiniDump.cpp
+  QueryManager.cpp
+  Queue.cpp
+  ServerDisplayer.cpp
+  ServerManager.cpp
+  SocketManager.cpp
+  SocketManagerUdp.cpp
+  Util.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 590 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  JoinServer.vcxproj -> D:\emulador-muemu-s13\source-files\Release\JoinServer.exe

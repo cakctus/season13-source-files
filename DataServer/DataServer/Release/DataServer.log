@@ -1,0 +1,184 @@
+﻿  stdafx.cpp
+  AllowableIpList.cpp
+  ArcaBattle.cpp
+  BadSyntax.cpp
+  CashShop.cpp
+  CastleDBSet.cpp
+  CBlockChatUserDBSet.cpp
+  CBombHuntDBSet.cpp
+  CharacterManager.cpp
+  CommandManager.cpp
+  CRestoreItemDBSet.cpp
+  CriticalSection.cpp
+  CSProtocol.cpp
+  DataServer.cpp
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\CharacterManager.cpp(40,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/CharacterManager.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\CharacterManager.cpp(40,7): error C3861: 'transform': identifier not found
+  (compiling source file '/CharacterManager.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\CharacterManager.cpp(61,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/CharacterManager.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\CharacterManager.cpp(61,7): error C3861: 'transform': identifier not found
+  (compiling source file '/CharacterManager.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\CharacterManager.cpp(83,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/CharacterManager.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\CharacterManager.cpp(83,7): error C3861: 'transform': identifier not found
+  (compiling source file '/CharacterManager.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\CSProtocol.cpp(534,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '/CSProtocol.cpp')
+  
+  DataServerProtocol.cpp
+  ESProtocol.cpp
+  EventInventory.cpp
+  GensSystem.cpp
+  GuildManager.cpp
+  GuildMatching.cpp
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\GuildMatching.cpp(74,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/GuildMatching.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\GuildMatching.cpp(74,7): error C3861: 'transform': identifier not found
+  (compiling source file '/GuildMatching.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\GuildMatching.cpp(95,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/GuildMatching.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\GuildMatching.cpp(95,7): error C3861: 'transform': identifier not found
+  (compiling source file '/GuildMatching.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\GuildMatching.cpp(117,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/GuildMatching.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\GuildMatching.cpp(117,7): error C3861: 'transform': identifier not found
+  (compiling source file '/GuildMatching.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\GuildMatching.cpp(137,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/GuildMatching.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\GuildMatching.cpp(137,7): error C3861: 'transform': identifier not found
+  (compiling source file '/GuildMatching.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\GuildMatching.cpp(159,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/GuildMatching.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\GuildMatching.cpp(159,7): error C3861: 'transform': identifier not found
+  (compiling source file '/GuildMatching.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\GuildMatching.cpp(181,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/GuildMatching.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\GuildMatching.cpp(181,7): error C3861: 'transform': identifier not found
+  (compiling source file '/GuildMatching.cpp')
+  
+  Helper.cpp
+  Compiling...
+  HuntingRecord.cpp
+  LabyrinthDBSet.cpp
+  Log.cpp
+  LuckyCoin.cpp
+  LuckyItem.cpp
+  MasterSkillTree.cpp
+  MasterSkillTree_4th.cpp
+  MemScript.cpp
+  MiniDump.cpp
+  MuRummy.cpp
+  MuunSystem.cpp
+  NewQuestWorld.cpp
+  NpcTalk.cpp
+  OfflineMode.cpp
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\OfflineMode.cpp(223,21): warning C4302: 'type cast': truncation from 'const char *' to 'char'
+  (compiling source file '/OfflineMode.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\OfflineMode.cpp(223,49): warning C4302: 'type cast': truncation from 'const char *' to 'char'
+  (compiling source file '/OfflineMode.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\OfflineMode.cpp(223,78): warning C4302: 'type cast': truncation from 'const char *' to 'char'
+  (compiling source file '/OfflineMode.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\OfflineMode.cpp(225,18): warning C4302: 'type cast': truncation from 'const char *' to 'char'
+  (compiling source file '/OfflineMode.cpp')
+  
+  PartyMatching.cpp
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\PartyMatching.cpp(67,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/PartyMatching.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\PartyMatching.cpp(67,7): error C3861: 'transform': identifier not found
+  (compiling source file '/PartyMatching.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\PartyMatching.cpp(130,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/PartyMatching.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\PartyMatching.cpp(130,7): error C3861: 'transform': identifier not found
+  (compiling source file '/PartyMatching.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\PartyMatching.cpp(152,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/PartyMatching.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\PartyMatching.cpp(152,7): error C3861: 'transform': identifier not found
+  (compiling source file '/PartyMatching.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\PartyMatching.cpp(172,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/PartyMatching.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\PartyMatching.cpp(172,7): error C3861: 'transform': identifier not found
+  (compiling source file '/PartyMatching.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\PartyMatching.cpp(193,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/PartyMatching.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\PartyMatching.cpp(193,7): error C3861: 'transform': identifier not found
+  (compiling source file '/PartyMatching.cpp')
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\PartyMatching.cpp(215,7): error C2039: 'transform': is not a member of 'std'
+  (compiling source file '/PartyMatching.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\string(23,1):
+      see declaration of 'std'
+  
+D:\emulador-muemu-s13\source-files\DataServer\DataServer\PartyMatching.cpp(215,7): error C3861: 'transform': identifier not found
+  (compiling source file '/PartyMatching.cpp')
+  
+  PentagramSystem.cpp
+  PersonalShop.cpp
+  QueryManager.cpp
+  Quest.cpp
+  QuestWorld.cpp
+  Compiling...
+  Queue.cpp
+  ServerDisplayer.cpp
+  ServerManager.cpp
+  SocketManager.cpp
+  Util.cpp
+  Warehouse.cpp

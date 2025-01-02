@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  ClientManager.cpp
+  ConnectServer.cpp
+  ConnectServerProtocol.cpp
+  CriticalSection.cpp
+  IpManager.cpp
+  Log.cpp
+  MemScript.cpp
+  MiniDump.cpp
+  Queue.cpp
+  ServerDisplayer.cpp
+  ServerList.cpp
+  SocketManager.cpp
+  SocketManagerUdp.cpp
+  Util.cpp
+  Generating code
+  Finished generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 519 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  ConnectServer.vcxproj -> D:\emulador-muemu-s13\source-files\Release\ConnectServer.exe

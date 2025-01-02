@@ -1,0 +1,286 @@
+﻿  stdafx.cpp
+  CCRC32.Cpp
+  Math.cpp
+  380ItemOption.cpp
+  380ItemType.cpp
+  ArcaBattle.cpp
+  Attack.cpp
+  BattleGround.cpp
+  BattleSoccer.cpp
+  BattleSoccerManager.cpp
+  BloodCastle.cpp
+  BonusManager.cpp
+  CAcheronGuardianEvent.cpp
+  CalFormula.cpp
+  CannonTower.cpp
+  CashShop.cpp
+  CastleDeep.cpp
+  CastleSiege.cpp
+  CastleSiegeCrown.cpp
+  CastleSiegeCrownSwitch.cpp
+  CastleSiegeSync.cpp
+  Compiling...
+  CastleSiegeWeapon.cpp
+  CBlockChatUserSystem.cpp
+  CBombHuntInfo.cpp
+  CBombHuntMng.cpp
+  ChaosBox.cpp
+  ChaosCastle.cpp
+  ChatSystem.cpp
+  CheatGuard.cpp
+  CNixiesLakeBoss.cpp
+  CNixiesLakeBossZone.cpp
+  ComboSkill.cpp
+  ComboSkillPath.cpp
+  CommandManager.cpp
+  Configs.cpp
+  Connection.cpp
+  CriticalSection.cpp
+  Crywolf.cpp
+  CrywolfAltar.cpp
+  CrywolfObjInfo.cpp
+  CrywolfStateTimeInfo.cpp
+  Compiling...
+  CrywolfStatue.cpp
+  CrywolfSync.cpp
+  CrywolfUtil.cpp
+  CSProtocol.cpp
+  CustomArena.cpp
+  CustomAttack.cpp
+  CustomEventDrop.cpp
+  CustomJewel.cpp
+  CustomMonster.cpp
+  CustomPVPtime.cpp
+  CustomStore.cpp
+  CustomWing.cpp
+  DarkSpirit.cpp
+  DefaultClassInfo.cpp
+  DevilSquare.cpp
+  DoubleGoer.cpp
+  DropSystem.cpp
+  DSProtocol.cpp
+  Duel.cpp
+  Effect.cpp
+  Compiling...
+  EffectManager.cpp
+  ESProtocol.cpp
+  EventInventory.cpp
+  ExperienceTable.cpp
+  FilaHit.cpp
+  Filter.cpp
+  ForThTree.cpp
+  Fruit.cpp
+  GameMain.cpp
+  GameMaster.cpp
+  GameServer.cpp
+  Gate.cpp
+  GensSystem.cpp
+  GMSystem.cpp
+  GodOfDarkness.cpp
+  GremoryCase.cpp
+  GuardianStatue.cpp
+  Guild.cpp
+  GuildClass.cpp
+  GuildMatching.cpp
+  Compiling...
+  HackCheck.cpp
+  HackPacketCheck.cpp
+  Helper.cpp
+  HuntingGrounds.cpp
+  IllusionTemple.cpp
+  ImperialGuardian.cpp
+  InventoryEquipment.cpp
+  IpManager.cpp
+  Item.cpp
+  ItemBag.cpp
+  ItemBagEx.cpp
+  ItemBagManager.cpp
+  ItemDrop.cpp
+  ItemManager.cpp
+  ItemMove.cpp
+  ItemOption.cpp
+  ItemOptionRate.cpp
+  ItemStack.cpp
+  ItemValue.cpp
+  JewelMix.cpp
+  Compiling...
+  JewelOfHarmonyOption.cpp
+  JewelOfHarmonyType.cpp
+  JSProtocol.cpp
+  Kalima.cpp
+  Kanturu.cpp
+  KanturuBattleOfMaya.cpp
+  KanturuBattleOfNightmare.cpp
+  KanturuBattleStanby.cpp
+  KanturuBattleUserMng.cpp
+  KanturuEntranceNPC.cpp
+  KanturuMaya.cpp
+  KanturuMonsterMng.cpp
+  KanturuObjInfo.cpp
+  KanturuStateInfo.cpp
+  KanturuTowerOfRefinement.cpp
+  KanturuUtil.cpp
+  LifeStone.cpp
+  Log.cpp
+  Logger.cpp
+  LuckyCoin.cpp
+  Compiling...
+  LuckyItem.cpp
+  Map.cpp
+  MapItem.cpp
+  MapManager.cpp
+  MapPath.cpp
+  MapServerManager.cpp
+  MasterSkillTree.cpp
+  MasterSkillTree_4th.cpp
+  MasteryItemExtOptionSet.cpp
+  MemoryAllocator.cpp
+  MemoryAllocatorInfo.cpp
+  MemScript.cpp
+  Mercenary.cpp
+  Message.cpp
+  MiniDump.cpp
+  MiniMap.cpp
+  MiningSystem.cpp
+  mmItemSlot.cpp
+  Monster.cpp
+  MonsterAI.cpp
+  Compiling...
+  MonsterAIAgro.cpp
+  MonsterAIAutomata.cpp
+  MonsterAIAutomataInfo.cpp
+  MonsterAIElement.cpp
+  MonsterAIElementInfo.cpp
+  MonsterAIGroup.cpp
+  MonsterAIGroupMember.cpp
+  MonsterAIMovePath.cpp
+  MonsterAIMovePathInfo.cpp
+  MonsterAIRule.cpp
+  MonsterAIRuleInfo.cpp
+  MonsterAIState.cpp
+  MonsterAIUnit.cpp
+  MonsterAIUnitInfo.cpp
+  MonsterAIUtil.cpp
+  MonsterManager.cpp
+  MonsterSetBase.cpp
+  MonsterSkillElement.cpp
+  MonsterSkillElementInfo.cpp
+  MonsterSkillElementOption.cpp
+  Compiling...
+  MonsterSkillInfo.cpp
+  MonsterSkillManager.cpp
+  MonsterSkillUnit.cpp
+  MonsterSkillUnitInfo.cpp
+  MonsterSpawner.cpp
+  MossMerchant.cpp
+  Move.cpp
+  MoveSummon.cpp
+  MUFC.cpp
+  MuRummy.cpp
+  MuunSystem.cpp
+  MysteriousStone.cpp
+  NewQuestWorld.cpp
+  NewsSystem.cpp
+  Notice.cpp
+  NpcTalk.cpp
+  ObjectManager.cpp
+  Oficina.cpp
+  PacketManager.cpp
+  Party.cpp
+  Compiling...
+  PartyMatching.cpp
+  Path.cpp
+  PcPoint.cpp
+  PentagramSystem.cpp
+  PersonalShop.cpp
+  Protect.cpp
+  Protocol.cpp
+  Quest.cpp
+  QuestObjective.cpp
+  QuestReward.cpp
+  QuestWorld.cpp
+  QuestWorldObjective.cpp
+  QuestWorldReward.cpp
+  Queue.cpp
+  QueueTimer.cpp
+  Raklion.cpp
+  RaklionBattleOfSelupan.cpp
+  RaklionBattleUser.cpp
+  RaklionBattleUserMng.cpp
+  RaklionObjInfo.cpp
+  Compiling...
+  RaklionSelupan.cpp
+  RaklionUtil.cpp
+  RandomManager.cpp
+  Reconnect.cpp
+  ResetTable.cpp
+  RestoreSoldItem.cpp
+  RheaGold.cpp
+  RuudTokenRewardProbability.cpp
+  ScheduleManager.cpp
+  SerialCheck.cpp
+  ServerDisplayer.cpp
+  ServerInfo.cpp
+  SetItemOption.cpp
+  SetItemType.cpp
+  Shop.cpp
+  ShopManager.cpp
+  Silvester.cpp
+  Skill.cpp
+  SkillHitBox.cpp
+  SkillManager.cpp
+  Compiling...
+  SocketChaos.cpp
+  SocketItemOption.cpp
+  SocketItemType.cpp
+  SocketManager.cpp
+  SocketManagerUdp.cpp
+  SpeedFila.cpp
+  StatSpecialize.cpp
+  SummonScroll.cpp
+  SXIDecryp.cpp
+  Trade.cpp
+  Union.cpp
+  UnionInfo.cpp
+  UnityBattleField.cpp
+  User.cpp
+  Util.cpp
+  Addons.cpp
+  Viewport.cpp
+  Warehouse.cpp
+  Wings4thOption.cpp
+cryptlib.lib(cryptlib.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in CCRC32.obj
+cryptlib.lib(modes.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in CCRC32.obj
+cryptlib.lib(misc.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in CCRC32.obj
+cryptlib.lib(des.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in CCRC32.obj
+cryptlib.lib(filters.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in CCRC32.obj
+cryptlib.lib(fips140.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in CCRC32.obj
+cryptlib.lib(algparam.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in CCRC32.obj
+cryptlib.lib(queue.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in CCRC32.obj
+cryptlib.lib(dessp.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in CCRC32.obj
+cryptlib.lib(mqueue.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1900' in CCRC32.obj
+cryptlib.lib(algparam.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+cryptlib.lib(queue.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+cryptlib.lib(mqueue.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+cryptlib.lib(cryptlib.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+cryptlib.lib(modes.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+cryptlib.lib(des.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+cryptlib.lib(filters.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &)" (__imp_??0exception@std@@QAE@ABQBD@Z)
+    Hint on symbols that are defined and could potentially match:
+      "__declspec(dllimport) public: __thiscall std::exception::exception(class std::exception const &)" (__imp_??0exception@std@@QAE@ABV01@@Z)
+      "__declspec(dllimport) public: __thiscall std::exception::exception(void)" (__imp_??0exception@std@@QAE@XZ)
+cryptlib.lib(cryptlib.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char const * __thiscall type_info::name(struct __type_info_node *)const " (__imp_?name@type_info@@QBEPBDPAU__type_info_node@@@Z)
+cryptlib.lib(filters.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char const * __thiscall type_info::name(struct __type_info_node *)const " (__imp_?name@type_info@@QBEPBDPAU__type_info_node@@@Z)
+cryptlib.lib(algparam.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: char const * __thiscall type_info::name(struct __type_info_node *)const " (__imp_?name@type_info@@QBEPBDPAU__type_info_node@@@Z)
+cryptlib.lib(cryptlib.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall type_info::operator!=(class type_info const &)const " (__imp_??9type_info@@QBE_NABV0@@Z)
+cryptlib.lib(filters.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall type_info::operator!=(class type_info const &)const " (__imp_??9type_info@@QBE_NABV0@@Z)
+cryptlib.lib(algparam.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall type_info::operator!=(class type_info const &)const " (__imp_??9type_info@@QBE_NABV0@@Z)
+cryptlib.lib(cryptlib.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall type_info::operator==(class type_info const &)const " (__imp_??8type_info@@QBE_NABV0@@Z)
+cryptlib.lib(filters.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall type_info::operator==(class type_info const &)const " (__imp_??8type_info@@QBE_NABV0@@Z)
+cryptlib.lib(misc.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::exception::exception(char const * const &,int)" (__imp_??0exception@std@@QAE@ABQBDH@Z)
+    Hint on symbols that are defined and could potentially match:
+      "__declspec(dllimport) public: __thiscall std::exception::exception(class std::exception const &)" (__imp_??0exception@std@@QAE@ABV01@@Z)
+      "__declspec(dllimport) public: __thiscall std::exception::exception(void)" (__imp_??0exception@std@@QAE@XZ)
+cryptlib.lib(mqueue.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall std::_Container_base12::~_Container_base12(void)" (__imp_??1_Container_base12@std@@QAE@XZ)
+cryptlib.lib(mqueue.obj) : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall std::_Container_base12::_Swap_all(struct std::_Container_base12 &)" (__imp_?_Swap_all@_Container_base12@std@@QAEXAAU12@@Z)
+D:\emulador-muemu-s13\source-files\Release\GameServer.exe : fatal error LNK1120: 7 unresolved externals

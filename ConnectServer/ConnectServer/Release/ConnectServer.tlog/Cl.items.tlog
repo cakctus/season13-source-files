@@ -1,0 +1,15 @@
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\ClientManager.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\ClientManager.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\ConnectServer.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\ConnectServer.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\ConnectServerProtocol.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\ConnectServerProtocol.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\CriticalSection.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\CriticalSection.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\IpManager.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\IpManager.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Log.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\Log.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\MemScript.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\MemScript.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\MiniDump.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\MiniDump.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Queue.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\Queue.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\ServerDisplayer.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\ServerDisplayer.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\ServerList.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\ServerList.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\SocketManager.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\SocketManager.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\SocketManagerUdp.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\SocketManagerUdp.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\stdafx.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\stdafx.obj
+D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Util.cpp;D:\emulador-muemu-s13\source-files\ConnectServer\ConnectServer\Release\Util.obj
